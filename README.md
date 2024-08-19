@@ -1,4 +1,3 @@
 # Hola, mi nombre es Chema 👋
-### Programador en prácticas
-
+### Técnico en Desarrollo de aplicaciones multiplataforma
 
