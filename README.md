@@ -7,4 +7,4 @@ El proyecto de Harry Potter lo realicé durante el grado superior con material a
 
 El proyecto "Pokemon Hyrule" es un juego basado en la saga de Pokemon, desarrollado en RPGMaker con librerias especificas para crear juegos de Pokemon y en lenguaje Ruby.
 
-Actualmente me hallo trabajando en una aplicación web de contabilidad personal con un equipo de 2 personas más, la parte de servidor se ha realizado en JAVA y la parte cliente en Javascript con react. Debido a que es un proyecto conjunto, no tengo autorización de mis compañeros para compartirlo públicamente de momento pero puedo mostrar imágenes de ejemplo.
+Actualmente me hallo trabajando en una aplicación web de contabilidad personal, llamada "Cuberite", con un equipo de 2 personas más. La parte de servidor se ha realizado en JAVA y la parte cliente en Javascript con react. Debido a que es un proyecto conjunto, no tengo autorización de mis compañeros para compartirlo públicamente de momento pero puedo mostrar imágenes de ejemplo.
